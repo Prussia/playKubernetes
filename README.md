@@ -1,13 +1,13 @@
 # playKubernetes
 
 ## [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
-- Kubernetes is
-- Why containers?
-  - Why do I need Kubernetes and what can it do?
-  - How is Kubernetes a platform?
-  - What Kubernetes is not
-  - What does Kubernetes mean? K8s?
-- What’s next
+- [Kubernetes is](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#kubernetes-is)
+- [Why containers?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#why-containers)
+  - [Why do I need Kubernetes and what can it do?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#why-do-i-need-kubernetes-and-what-can-it-do)
+  - [How is Kubernetes a platform?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#how-is-kubernetes-a-platform)
+  - [What Kubernetes is not](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#what-kubernetes-is-not)
+  - [What does Kubernetes mean? K8s?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#what-does-kubernetes-mean-k8s)
+- [What’s next](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#whats-next)
 
 ## [Installing/Setting Up Kubernetes]()
 
