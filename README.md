@@ -20,4 +20,4 @@
   - [Using kubeadm to Create a Cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
   - [kubeadm Setup Tool Reference Guide](https://kubernetes.io/docs/admin/kubeadm/)
 
-## [Kubernetes for Redhat](https://www.redhat.com/en/containers/what-is-kubernetes)
+## [Kubernetes Doc on Redhat](https://www.redhat.com/en/containers/what-is-kubernetes)
