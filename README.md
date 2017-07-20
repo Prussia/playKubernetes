@@ -10,6 +10,8 @@
 **Node**: These machines perform the requested, assigned tasks. The Kubernetes master controls them.
 
 **Pod**: A group of one or more containers deployed to a single node. All containers in a pod share an IP address, IPC, hostname, and other resources. Pods abstract network and storage away from the underlying container. This lets you move containers around the cluster more easily.
+
+**kubectl**: This is the command line configuration tool for Kubernetes.
  
 ## Infrastructure
 <p align="center">
