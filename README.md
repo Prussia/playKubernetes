@@ -6,3 +6,7 @@
 
 ## [Keywords](./KEYWORDS.md)
  
+## Infrastructure
+<p align="center">
+  <img src="./pic/kubernetes-diagram.png" width="800"/>
+</p>
