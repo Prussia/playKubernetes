@@ -9,7 +9,8 @@
   - [What does Kubernetes mean? K8s?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#what-does-kubernetes-mean-k8s)
 - [What’s next](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/#whats-next)
 
-## [Pick Right Solution](https://kubernetes.io/docs/setup/pick-right-solution/)
+## Get Started
+### [Pick Right Solution](https://kubernetes.io/docs/setup/pick-right-solution/)
 
 ## [Installing/Setting Up Kubernetes]()
 
