@@ -11,7 +11,10 @@
 
 ## Get Started
 ### [Pick Right Solution](https://kubernetes.io/docs/setup/pick-right-solution/)
-- [Minikube]()
+- [Minikube](https://kubernetes.io/docs/getting-started-guides/minikube/)
+  - Minikube Features
+  - Installation
+  - Quickstart
 - [kubeadm]()
   - [Installing](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
   - [Using kubeadm to Create a Cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
