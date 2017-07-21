@@ -19,7 +19,8 @@
 </p>
 
 ## OS binding with Kubernetes
-- [CoreOS](https://coreos.com/tectonic/)
+- [Container Linux by CoreOS](https://coreos.com/tectonic/)
+  - [wiki](https://en.wikipedia.org/wiki/Container_Linux_by_CoreOS)
 - [RancherOS](http://rancher.com/docs/os/)
 
 ## Tools
