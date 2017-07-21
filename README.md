@@ -17,3 +17,7 @@
 <p align="center">
   <img src="./pic/kubernetes-diagram.png" width="800"/>
 </p>
+
+## OS binding with Kubernetes
+- [CoreOS](https://coreos.com/tectonic/)
+- [RancherOS](http://rancher.com/docs/os/)
