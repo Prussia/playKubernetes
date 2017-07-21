@@ -22,6 +22,7 @@
 - [Container Linux by CoreOS](https://coreos.com/tectonic/)
   - [wiki](https://en.wikipedia.org/wiki/Container_Linux_by_CoreOS)
   - [Installing Tectonic workers on Red Hat Enterprise Linux](https://coreos.com/tectonic/docs/latest/install/rhel/installing-workers.html)
+  - [Downloading and installing Tectonic on AWS](https://coreos.com/tectonic/docs/latest/tutorials/installing-tectonic.html)
 - [RancherOS](http://rancher.com/docs/os/)
 
 ## Tools
