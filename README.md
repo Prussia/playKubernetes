@@ -1,6 +1,6 @@
 # playKubernetes
 
-## [Installing on AWS RedHat](https://github.com/docker/for-linux/issues/20#issuecomment-312122325)
+## [Installing Docker on AWS RedHat](https://github.com/docker/for-linux/issues/20#issuecomment-312122325)
 ```
 # sudo yum install --setopt=obsoletes=0 docker-ce-17.03.2.ce-1.el7.centos.x86_64 docker-ce-selinux-17.03.2.ce-1.el7.centos.noarch
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
