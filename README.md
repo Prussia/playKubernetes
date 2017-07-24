@@ -1,6 +1,15 @@
 # playKubernetes
 
-## [Installing moby](https://github.com/moby/moby/issues/33930)
+## [Installing on AWS RedHat](https://github.com/docker/for-linux/issues/20#issuecomment-312122325)
+```
+# sudo yum install --setopt=obsoletes=0 docker-ce-17.03.2.ce-1.el7.centos.x86_64 docker-ce-selinux-17.03.2.ce-1.el7.centos.noarch
+sudo yum install -y yum-utils device-mapper-persistent-data lvm2
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum-config-manager --enable docker-ce-edge
+sudo yum makecache fast
+sudo yum -y --enablerepo=rhui-REGION-rhel-server-extras install container-selinux
+sudo yum -y install docker-ce
+```
 
 ## [Official Documents](./OFFICIAL.md)
 
