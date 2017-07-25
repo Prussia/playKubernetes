@@ -30,7 +30,7 @@ sudo yum -y install docker-ce
 </p>
 
 ## OS binding with Kubernetes
-- [Container Linux by CoreOS](https://coreos.com/tectonic/)
+- [Container Linux by CoreOS](./COREOS.md)
   - [wiki](https://en.wikipedia.org/wiki/Container_Linux_by_CoreOS)
   - [Installing Tectonic workers on Red Hat Enterprise Linux](https://coreos.com/tectonic/docs/latest/install/rhel/installing-workers.html)
   - [Downloading and installing Tectonic on AWS](https://coreos.com/tectonic/docs/latest/tutorials/installing-tectonic.html)
