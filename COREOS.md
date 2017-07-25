@@ -17,3 +17,5 @@ Instead of installing packages with yum or apt, Container Linux deploys and mana
 #### [Services](https://coreos.com/kubernetes/docs/latest/services.html)
 
 #### [Replication Controllers](https://coreos.com/kubernetes/docs/latest/replication-controller.html)
+
+### [Running CoreOS Container Linux on EC2](https://coreos.com/os/docs/latest/booting-on-ec2.html)
