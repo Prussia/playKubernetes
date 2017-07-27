@@ -3,9 +3,13 @@
 ## Play on Mac
 ### Requirments
 #### 1.[Enable VT-x/AMD-v virtualization in BIOS](https://docs.fedoraproject.org/en-US/Fedora/13/html/Virtualization_Guide/sect-Virtualization-Troubleshooting-Enabling_Intel_VT_and_AMD_V_virtualization_hardware_extensions_in_BIOS.html)
-```
-Run cat /proc/cpuinfo | grep vmx svm. If the command outputs, the virtualization extensions are now enabled. If there is no output your system may not have the virtualization extensions or the correct BIOS setting enabled.
-```
+
+Run 
+``` 
+cat /proc/cpuinfo | grep vmx svm
+```  
+If the command outputs, the virtualization extensions are now enabled. If there is no output your system may not have the virtualization extensions or the correct BIOS setting enabled.
+
 
 #### 2.[kubectl](https://kubernetes.io/docs/tasks/kubectl/install/)
 
