@@ -19,8 +19,7 @@ spec:
       containers:
         - name: app
           image: k8s.gcr.io/busybox
-          command: [ "/bin/bash", "-c", "--" ]
-          args: [ "while true; do sleep 30; done;" ]
+          command: [ "/bin/sh", "-c", "env" ]
           imagePullPolicy: Always
           envFrom:
           - configMapRef:
