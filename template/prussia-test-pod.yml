@@ -3,22 +3,23 @@
 apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
-  name: mans-not-hot
+  name: prussia-test-pod
   labels:
-    app: mans-not-hot
+    app: prussia-test-pod
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: mans-not-hot
+      app: prussia-test-pod
   template:
     metadata:
       labels:
-        app: mans-not-hot
+        app: prussia-test-pod
     spec:
       containers:
         - name: app
-          image: gcr.io/mans-not-hot/app:bed1f9d4
+          image: k8s.gcr.io/busybox
+          command: [ "/bin/sh", "-c", "env" ]
           imagePullPolicy: Always
           ports:
             - containerPort: 80
