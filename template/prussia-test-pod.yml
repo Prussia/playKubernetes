@@ -19,10 +19,8 @@ spec:
       containers:
         - name: app
           image: k8s.gcr.io/busybox
-          command: [ "/bin/sh", "-c", "env" ]
+          command: [ "/bin/sh", "-c", "env | grep DB_PASSWORD" ]
           imagePullPolicy: Always
-          ports:
-            - containerPort: 80
           envFrom:
           - configMapRef:
               name: env-configmap
