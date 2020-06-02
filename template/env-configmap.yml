@@ -5,5 +5,5 @@ kind: ConfigMap
 metadata:
   name: env-configmap
 data:
-  APP_NAME: Mans Not Hot
-  APP_ENV: production
+  APP_NAME: app
+  APP_ENV: appenv
